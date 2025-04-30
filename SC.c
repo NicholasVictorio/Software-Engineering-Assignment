@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Ini adalah versi kedua dari program sederhana dengan bahasa pemograman C.\n");
+    printf("Update ini dibuat di branch baru.\n");
     return 0;
 }
